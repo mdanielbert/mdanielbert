@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mdanielbert
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am expert in React, Angular, Vue, Next and Node, Express and Python.
 
 <!---
 mdanielbert/mdanielbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
